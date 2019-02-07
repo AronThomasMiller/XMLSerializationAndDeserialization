@@ -1,0 +1,23 @@
+<?xml version="1.0"?>
+<ArrayOfHotel xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema">
+  <Hotel>
+    <Name>Mariya</Name>
+    <Price>2000</Price>
+    <Rating>3</Rating>
+  </Hotel>
+  <Hotel>
+    <Name>Bykvuna</Name>
+    <Price>5000</Price>
+    <Rating>5</Rating>
+  </Hotel>
+  <Hotel>
+    <Name>Kavkaz</Name>
+    <Price>4000</Price>
+    <Rating>4</Rating>
+  </Hotel>
+  <Hotel>
+    <Name>Laxivka</Name>
+    <Price>500</Price>
+    <Rating>1</Rating>
+  </Hotel>
+</ArrayOfHotel>
